@@ -55,6 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+<img width="1920" height="1080" alt="Screenshot from 2025-11-22 13-18-20" src="https://github.com/user-attachments/assets/ab276f75-8b73-4ee3-b911-04fe8602bc7b" />
 
 
 </p>
@@ -64,6 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+<img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-00-19" src="https://github.com/user-attachments/assets/f4467833-c3cf-4e28-9b1a-e842228b02b9" />
 
 
 </p>
@@ -73,6 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+<img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-03-28" src="https://github.com/user-attachments/assets/7e214bc0-a13f-43cb-b06e-b23c0f71b567" />
 
 
 </p>
@@ -82,6 +85,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+<img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-07-56" src="https://github.com/user-attachments/assets/3cdd333c-e382-4e10-9bf1-4457c2eaee23" />
 
 
 </p>
@@ -91,6 +95,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+<img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-09-38" src="https://github.com/user-attachments/assets/8ea0fef8-91af-4dc8-9dfa-2e4a3cfe10f0" />
 
 
 </p>
@@ -100,6 +105,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+<img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-11-52" src="https://github.com/user-attachments/assets/e95cd5a8-6865-4c21-a40a-ea43be1a9714" />
 
 
 </p>
@@ -109,6 +115,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+<img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-21-32" src="https://github.com/user-attachments/assets/deb3e114-1d64-4cfb-bb49-b93df35b9449" />
 
 
 </p>
@@ -118,6 +125,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+<img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-24-54" src="https://github.com/user-attachments/assets/c77439f7-c206-4a58-917e-d23ef3a5e157" />
 
 
 </p>
@@ -127,6 +135,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+<img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-28-34" src="https://github.com/user-attachments/assets/59f4c8aa-b231-4821-92cc-0e5f63163cbc" />
 
 
 </p>
@@ -136,6 +145,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+<img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-32-33" src="https://github.com/user-attachments/assets/c40bb5f9-afd6-41ef-a325-ab06323be26b" />
 
 
 </p>
@@ -144,38 +154,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
-
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
