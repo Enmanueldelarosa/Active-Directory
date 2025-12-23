@@ -28,7 +28,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1) Create two Azure virtual machines: one domain controller that uses Windows Server 2022 (dc-1) and one client machine that uses Windows 10 (client-1).
 </p>
 <p>
 <img width="1920" height="1080" alt="Screenshot from 2025-10-31 10-49-56" src="https://github.com/user-attachments/assets/f0e50998-32c8-4de1-bf5c-ee3ad0fc73e1" />
@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2) Set the domain controller’s private IP address to static in the Azure network interface settings.
 </p>
 <p>
 <img width="1920" height="1080" alt="Screenshot from 2025-10-25 15-50-24" src="https://github.com/user-attachments/assets/da2efb2a-7cbc-4a0f-a417-53f7e3077e80" />
@@ -46,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3)Open Windows Defender Firewall with Advanced Security on the domain controller. For the tabs named: Domain Profile, Private Profile & Public Profile, select the firewall state and make sure to put it on off.
 </p>
 <p>
 <img width="1920" height="1080" alt="Screenshot from 2025-10-31 16-39-03" src="https://github.com/user-attachments/assets/36b7179e-e27e-4031-9aa1-1822983e0e7f" />
