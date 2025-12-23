@@ -145,7 +145,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-13) 
+13) Grant domain users permission to access the client machine via Remote Desktop.(NEEDS TO BE MRE PRECISE).
 </p>
 <p>
 <img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-32-33" src="https://github.com/user-attachments/assets/c40bb5f9-afd6-41ef-a325-ab06323be26b" />
