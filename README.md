@@ -40,7 +40,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 2) Set the domain controller’s private IP address to static in the Azure network interface settings.
 </p>
 <p>
-<img width="1920" height="1080" alt="Screenshot from 2025-10-25 15-50-24" src="https://github.com/user-attachments/assets/da2efb2a-7cbc-4a0f-a417-53f7e3077e80" />
+<img width="1918" height="993" alt="Cut for efficiency" src="https://github.com/user-attachments/assets/9b44407e-99b5-4ec4-81eb-c101ecf27a46" />
 
 </p>
 <br />
