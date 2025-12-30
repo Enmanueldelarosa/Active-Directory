@@ -55,7 +55,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-4) Install and configure Active Directory Domain Services on the domain controller.
+4) Install and configure Active Directory Domain Services on the domain controller. In the name section, choose a name for the domain, and make sure to remember it.
 </p>
 <p>
 <img width="1920" height="1080" alt="Screenshot from 2025-11-22 13-18-20" src="https://github.com/user-attachments/assets/ab276f75-8b73-4ee3-b911-04fe8602bc7b" />
@@ -65,7 +65,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-5) Disconnect & Connect to the domain controller using Remote Desktop, Making sure this time you add the domain name in this case mydomain.com to the login of the remote desktop.
+5) Disconnect & Connect to the domain controller using Remote Desktop, making sure this time you add the domain name, in this case mydomain.com, to the login of the remote desktop.
 </p>
 <p>
 <img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-00-19" src="https://github.com/user-attachments/assets/f4467833-c3cf-4e28-9b1a-e842228b02b9" />
@@ -85,7 +85,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-7) Create a new domain user account inside the _ADMINS organizational unit.
+7) By right-clicking, create a new domain user account inside the _ADMINS organizational unit.
 </p>
 <p>
 <img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-07-56" src="https://github.com/user-attachments/assets/3cdd333c-e382-4e10-9bf1-4457c2eaee23" />
