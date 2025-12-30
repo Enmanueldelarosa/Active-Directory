@@ -145,7 +145,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-13) Grant domain users permission to access the client machine via Remote Desktop.(NEEDS TO BE MRE PRECISE).
+13) On the client machine, navigate to Settings, System, Remote Desktop, enable Remote Desktop, then click Select users that can remotely access this PC. From there, add Domain Users to the Remote Desktop Users list. This was done to allow domain accounts managed by Active Directory to remotely log into the client machine, confirming that domain authentication and centralized access control are working correctly within the Active Directory environment.
 </p>
 <p>
 <img width="1920" height="1080" alt="Screenshot from 2025-12-04 11-32-33" src="https://github.com/user-attachments/assets/c40bb5f9-afd6-41ef-a325-ab06323be26b" />
