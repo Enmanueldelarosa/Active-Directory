@@ -9,21 +9,24 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop {Remmina}
 - Active Directory Domain Services
-- PowerShell
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
-- Windows 10 (22H2)
+- Windows Server 2022 {DC-1}
+- Windows 10 (22H2) {Client-1}
+- Linux Mint
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+1: Deploy two Azure virtual machines within the same virtual network to function as a domain controller and client system.
+
+2: Install and configure Active Directory Domain Services on the domain controller.
+
+3: Create organizational units, domain users, and administrative group assignments.
+
+4: Join the client machine to the domain and validate domain-based access.
 
 <h2>Deployment and Configuration Steps</h2>
 
