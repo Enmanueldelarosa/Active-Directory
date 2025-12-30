@@ -157,5 +157,5 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Conclusion</h2>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This project demonstrates the deployment and configuration of a fully functioning on-premises Active Directory environment hosted in the cloud using Microsoft Azure Virtual Machines. The environment includes a domain controller (dc-1), a domain-joined client machine (client-1), organizational units, domain user accounts, administrative group assignments, and validated remote access using domain credentials. Together, these steps establish a solid foundational Active Directory infrastructure that mirrors real-world enterprise environments. This configuration will serve as the foundation for Part 2, which will be completed in the near future and will focus on scaling the environment by creating 1,000 users, implementing and modifying Group Policies, and performing additional administrative and security-related configurations.
 </p>
