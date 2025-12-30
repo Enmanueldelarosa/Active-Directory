@@ -3,7 +3,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This project demonstrates the deployment of an on-premises Active Directory environment hosted in Microsoft Azure, including domain controller setup, domain-joined clients, user management, and remote access configuration.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -34,7 +34,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 1) Create two Azure virtual machines: one domain controller that uses Windows Server 2022 (dc-1) and one client machine that uses Windows 10 (client-1).
 </p>
 <p>
-<img width="1920" height="1080" alt="Screenshot from 2025-10-31 10-49-56" src="https://github.com/user-attachments/assets/f0e50998-32c8-4de1-bf5c-ee3ad0fc73e1" />
+<img width="1439" height="921" alt="Screenshot from 2025-10-31 vm 10-49-56" src="https://github.com/user-attachments/assets/140d33dd-e5d6-4234-8c63-4a8ebcee8b83" />
+
 
 </p>
 <br />
